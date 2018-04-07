@@ -6,7 +6,7 @@ class LeftMenu extends React.Component{
 	render() {
 		return (
 			<div>
-				<h1>{ title}</h1><br/>
+				<h1>{title}</h1><br/>
 				<p>Left Menu</p>
 			</div>
 		)

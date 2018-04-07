@@ -1,3 +1,3 @@
 import React from 'react';
 
-export const title = <p>Title</p>;
+export const title = <p>Left Menu</p>;
