@@ -1,8 +1,16 @@
-#box {
+#boxb {
   text-align: center;
   float: left;
   margin-right: -1px;
   margin-left: -1px;
   padding: 0;
   border: 1px solid black;
+}
+
+#box {
+  text-align: center;
+  float: left;
+  margin-right: -1px;
+  margin-left: -1px;
+  padding: 0;
 }
