@@ -1,7 +1,13 @@
-import React, { components } from 'react';
+import React from 'react';
+import ReactDOM from 'react-dom';
 
-export default class Knight extends components
+export class Knight extends React.Component{
   render() {
-    return <span>object??</span>;
-  }
+    return <h1>Hello</h1>/*<span>object??</span>*/
+  };
 }
+
+/*ReactDOM.render(
+  <Knight/>,
+  document.getElementById('app')
+);*/
